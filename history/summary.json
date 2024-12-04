@@ -4,7 +4,7 @@
     "url": "https://someonebot.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/someonebot.xyz.ico",
     "slug": "someone-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 471,
     "timeYear": 453,
     "dailyMinutesDown": {
+      "2024-12-04": 0,
       "2024-09-21": 18
     }
   }
